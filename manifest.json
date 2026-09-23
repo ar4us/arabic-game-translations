@@ -14,7 +14,7 @@
       "translation_version": "1.0",
       "release_tag": "v1.0-townfall",
       "asset_name": "townfall-arabic.zip",
-      "file_size_mb": 18,
+      "file_size_mb": 145,
       "validation": {
         "target_path": "Townfall/Content/Paks",
         "detect_files": ["pakchunk0-Windows.pak"],
