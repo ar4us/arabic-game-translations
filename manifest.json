@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "updated_at": "2026-09-23T00:00:00Z",
+  "games": [
+    {
+      "id": "silent-hill-townfall",
+      "name_ar": "سايلنت هيل: تاون فول",
+      "name_en": "Silent Hill: Townfall",
+      "cover_url": "covers/silent-hill-townfall.png",
+      "description_ar": "سايلنت هيل: تاون فول هي لعبة رعب نفسي من سلسلة سايلنت هيل الشهيرة. تدور أحداث اللعبة في بلدة مهجورة مليئة بالأسرار والكوابيس، حيث يجد البطل نفسه محاصراً في عالم مظلم بين الواقع والخيال. استكشف البيئات المرعبة وواجه مخاوفك الداخلية في هذه التجربة المشوقة من تطوير Annapurna Interactive.",
+      "store_url": "https://store.steampowered.com/app/2439810/Silent_Hill_Townfall/",
+      "translator": "ArgusOs",
+      "translator_url": "https://github.com/ar4us",
+      "translation_version": "1.0",
+      "release_tag": "v1.0-townfall",
+      "asset_name": "townfall-arabic.zip",
+      "file_size_mb": 18,
+      "validation": {
+        "target_path": "Townfall/Content/Paks",
+        "detect_files": ["pakchunk0-Windows.pak"],
+        "backup_files": ["pakchunk0-Windows.pak", "pakchunk1-Windows.pak"]
+      },
+      "steam_app_id": "2439810",
+      "engine": "Unreal Engine 5",
+      "genre": "رعب"
+    }
+  ]
+}
